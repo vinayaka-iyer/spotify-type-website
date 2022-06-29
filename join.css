@@ -64,6 +64,11 @@
         margin: 2rem 0;
     }
 }
+@media (max-width: 500px) {
+    .main-footer {
+        width: fit-content;
+    }
+}
 
 .join-page-circle-1 {
     position: absolute;

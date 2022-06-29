@@ -45,3 +45,9 @@
         width: auto;
     }
 }
+
+@media (max-width: 500px) {
+    .main-footer {
+        width: fit-content;
+    }
+}
